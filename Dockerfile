@@ -1,0 +1,3 @@
+FROM backstopjs/backstopjs
+
+ENTRYPOINT []
